@@ -1,7 +1,7 @@
 # Relayable.org Documentation
 
 ## Overview
-Relayable.org is a new way to relay. We are an invite-only relay supported by donations. Write access is maanaged by our list of people we follow on our nostr account. People following our nostr are either on the waitlist or are already accepted to write to the relay. Simply follow our nostr account to then be notified once added to the allow list for write access via a DM.
+Relayable.org is a new way to relay. We are an invite-only relay supported by donations. Write access is managed by our list of people we follow on our nostr account. People following our nostr are either on the waitlist or are already accepted to write to the relay. Simply follow our nostr account to then be notified once added to the write-allow list for write access via a DM.
 
 ## Roadmap
 - [ ] Geo DNS routing of requests to nearest, least latency relay (**in-prgress testing geo**)
