@@ -4,12 +4,12 @@
 Relayable.org is a new way to relay. We are an invite-only relay supported by donations. Write access is managed by our list of people we follow on our nostr account. People following our nostr are either on the waitlist or are already accepted to write to the relay. Simply follow our nostr account to then be notified once added to the write-allow list for write access via a DM.
 
 ## Roadmap
-- [ ] Geo DNS routing of requests to nearest, least latency relay (**in-prgress testing geo**)
+- [x] Geo DNS routing of requests to nearest, least latency relay 
 - [x] Heterogeneous node networks using multiple routes and backbones
 - [x] Stream from Relayable to other public relays for out of network redundancy
 - [x] Manage write allow list via Relayable nostr account (following)
 - [x] Manage wait list via users who followed Relayable nostr account
-- [ ] Notify users of being added to write allow list via DM (**in-progress testing**) 
+- [x] Notify users of being added to write allow list via DM 
 - [ ] If user is banned from write access send them DM notification with reason and allow one time appeal
 - [x] Setup BTCPayServer for donations 
 - [ ] Setup strfry sync between geo relay nodes (requires upstream fix)
